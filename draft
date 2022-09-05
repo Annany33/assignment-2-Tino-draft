@@ -105,7 +105,7 @@ public class StateOwnedEnterprise : Client
 {
 	private string NameOfBusinessInCoalition;
 	private int investmentTotal;
-	int Goverment_Divident = 0.35;
+	double Goverment_Divident = 0.35;
 	
 	public StateOwnedEnterprise(string name, string location, double totalIncome, double exportRate, string NameOfBusinessInCoalition, int investmentTotal)
 
